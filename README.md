@@ -58,7 +58,11 @@ src="https://img.shields.io/twitter/follow/DaizVigi?logo=twitter&style=for-the-b
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/yigagilbert/object_detection_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yigagilbert&repo=object_detection_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yigagilbert/examples" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yigagilbert&repo=examples&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/yigagilbert/E-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yigagilbert&repo=E-commerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
