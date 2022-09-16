@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile and web development and design. Machine learning.
 --------------------------------------------------------
 
-I started my career with mainly Mobile app development with flutter then web development but after some time i found it interest to integrate applications with machine learning in order to make them more efficient and productive.
+I started my career with mainly Mobile app development with flutter then web development but after some time i found it interesting to integrate applications with machine learning in order to make them more efficient and productive.
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [gilbertyiga15@gmail.com](mailto:gilbertyiga15@gmail.com)
