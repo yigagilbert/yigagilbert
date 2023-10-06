@@ -2,10 +2,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yiga Gilbert
 ====================================================================================================================================
 
-Mobile and web development and design. Machine learning.
+Software Engineer | AI Enthusiast | Tech Enthusiast | Software Developer.
 --------------------------------------------------------
 
-I started my career with mainly Mobile app development with flutter then web development but after some time i found it interesting to integrate applications with machine learning in order to make them more efficient and productive.
+"I'm a software engineer and AI/ML enthusiast, passionate about crafting cutting-edge solutions. I specialize in turning ideas into intelligent applications, constantly pushing the boundaries of technology. Let's shape the future, one line of code at a time."
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [gilbertyiga15@gmail.com](mailto:gilbertyiga15@gmail.com)
