@@ -9,8 +9,8 @@ Software Engineer | AI Enthusiast | Tech Enthusiast | Software Developer.
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [gilbertyiga15@gmail.com](mailto:gilbertyiga15@gmail.com)
-* 🧠  I'm learning Machine learn and data science.
-* 🤝  I'm open to collaborating on Machine learning, Web development, Mobile application development.
+* 🧠  I'm currently doing much of Machine learn and data science.
+* 🤝  I'm open to collaborating on Machine learning, System, Web, and Mobile application development.
 
 <a href="https://www.twitter.com/DaizVigi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DaizVigi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
